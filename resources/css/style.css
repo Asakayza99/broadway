@@ -3,6 +3,28 @@ body {
   font-family: Helvetica;
 }
 
+footer{
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
 .top {
   color: white;
  background-image: url(../the-flatiron-building.png);
@@ -10,7 +32,8 @@ body {
  font-size: 18px;
 }
 
-h1 {
-  font-size: 70px;
-  font-weight: bold;
+.DesignedInNewYork {
+  background-image: url(../the-flatiron-building.png);
+  color: white;
+  font-size: 23px;
 }
